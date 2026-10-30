@@ -1,9 +1,11 @@
+![SMT UA, українська версія](smt-banner.jpg)
+
 # SMT UA
 
-Готовая сборка карты EVE. Исходников в этом репозитории нет.
+Готова збірка карти EVE. Вихідного коду в цьому репозиторії немає.
 
-Скачай архив на странице [Releases](https://github.com/FuryRoad-Odmen/smt-ua/releases), распакуй и запусти `SMT.exe`.
+Завантаж архів зі сторінки [Releases](https://github.com/FuryRoad-Odmen/smt-ua/releases), розпакуй його і запусти `SMT.exe`.
 
-Нужен [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0). Настройки игрока лежат в `%APPDATA%\SMT` и в архив не входят.
+Потрібен [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0). Налаштування гравця лежать у `%APPDATA%\SMT` і в архів не входять.
 
 MIT. Copyright (c) 2023 Slazanger.
