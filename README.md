@@ -6,6 +6,8 @@ SMT UA це українська збірка карти [SMT](https://github.co
 
 Що змінилось у кожній версії, написано на сторінці [релізів](https://github.com/FuryRoad-Odmen/smt-ua/releases).
 
+Якщо збірка корисна, чайові в [банці Монобанку](https://send.monobank.ua/jar/2otjtBDKqm) допомагають і далі її покращувати. Грати можна без них. Гроші йдуть автору цієї збірки, не автору оригінального SMT.
+
 ## Що є зараз
 
 **Карта.** Регіон і всесвіт, маршрут, мости, безпека систем. Пілот на карті береться з ESI. Фільтри над картою фарбують системи і кружки: вбивства, стрибки, ADM.
@@ -43,6 +45,8 @@ Intel: Файл, Налаштування, Інтел. Назви каналів
 SMT UA is a Ukrainian build of the [SMT](https://github.com/Slazanger/SMT) map by Slazanger. It is a separate program on his code: a region map, Intel, an overlay on the game, and its own windows. MIT license. Copyright (c) 2023 Slazanger.
 
 What changed in each version is on the [releases](https://github.com/FuryRoad-Odmen/smt-ua/releases) page.
+
+If this build is useful, a tip in the [Monobank jar](https://send.monobank.ua/jar/2otjtBDKqm) helps keep improving it. The program stays free without one. The money goes to the author of this build, not to the author of the original SMT.
 
 ### What is here now
 
