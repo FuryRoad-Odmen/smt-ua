@@ -2,11 +2,11 @@
 
 # SMT UA
 
-SMT UA це українська збірка карти [SMT](https://github.com/Slazanger/SMT) автора Slazanger. Окрема програма на його коді: карта регіону, Intel, оверлей поверх гри і свої вікна. Ліцензія MIT. Copyright (c) 2023 Slazanger.
+SMT UA це збірка карти [SMT](https://github.com/Slazanger/SMT) автора Slazanger з переробленим інтерфейсом і своїми інструментами для полювання й безпеки. Карта, Intel і оверлей лишились основою. Зверху додано те, чого в оригіналі немає: кнопка D-Scan відправляє спрямований скан на dscan.info з системи, де стоїть пілот, а кнопка Local бере список людей у локалі і дає посилання на звіт localthreat. Ліцензія MIT. Copyright (c) 2023 Slazanger.
 
 Що змінилось у кожній версії, написано на сторінці [релізів](https://github.com/FuryRoad-Odmen/smt-ua/releases).
 
-Якщо збірка корисна, чайові в [банці Монобанку](https://send.monobank.ua/jar/2otjtBDKqm) допомагають і далі її покращувати. Грати можна без них. Гроші йдуть автору цієї збірки, не автору оригінального SMT.
+Це вже зроблена робота, і її є куди продовжувати. Якщо збірка корисна, чайові в [банці Монобанку](https://send.monobank.ua/jar/2otjtBDKqm) допомагають її покращувати. Грати можна без них. Гроші йдуть автору цієї збірки, не автору оригінального SMT.
 
 ## Що є зараз
 
@@ -42,11 +42,11 @@ Intel: Файл, Налаштування, Інтел. Назви каналів
 
 ## English
 
-SMT UA is a Ukrainian build of the [SMT](https://github.com/Slazanger/SMT) map by Slazanger. It is a separate program on his code: a region map, Intel, an overlay on the game, and its own windows. MIT license. Copyright (c) 2023 Slazanger.
+SMT UA is a build of the [SMT](https://github.com/Slazanger/SMT) map by Slazanger, with a reworked interface and its own tools for the hunt and for staying safe. The map, Intel, and the overlay are still the base. On top of that are things the original does not have: the D-Scan button sends a directional scan to dscan.info from the system the pilot is in, and the Local button takes the local list and makes a localthreat report link. MIT license. Copyright (c) 2023 Slazanger.
 
 What changed in each version is on the [releases](https://github.com/FuryRoad-Odmen/smt-ua/releases) page.
 
-If this build is useful, a tip in the [Monobank jar](https://send.monobank.ua/jar/2otjtBDKqm) helps keep improving it. The program stays free without one. The money goes to the author of this build, not to the author of the original SMT.
+That work is already in the program, and there is more to do. If the build is useful, a tip in the [Monobank jar](https://send.monobank.ua/jar/2otjtBDKqm) helps keep improving it. The program stays free without one. The money goes to the author of this build, not to the author of the original SMT.
 
 ### What is here now
 
