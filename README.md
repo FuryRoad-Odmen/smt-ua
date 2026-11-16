@@ -6,7 +6,7 @@ SMT UA це наша карта для EVE Online. Від [SMT](https://github.c
 
 Що змінилось у кожній версії, написано на сторінці [релізів](https://github.com/FuryRoad-Odmen/smt-ua/releases).
 
-Програма безкоштовна. Чайові на [Buy Me a Coffee](https://buymeacoffee.com/odmenrustb) автор витрачає на допомогу Україні в боротьбі проти агресора на свій розсуд. Звітів немає.
+Програма безкоштовна. Чайові на [Buy Me a Coffee](https://buymeacoffee.com/odmenrustb) автор витрачає на допомогу Україні в боротьбі проти агресора на свій розсуд.
 
 ## Що є зараз
 
@@ -46,7 +46,7 @@ SMT UA is our map for EVE Online. [SMT](https://github.com/Slazanger/SMT) by Sla
 
 What changed in each version is on the [releases](https://github.com/FuryRoad-Odmen/smt-ua/releases) page.
 
-The program is free. The author spends tips on [Buy Me a Coffee](https://buymeacoffee.com/odmenrustb) helping Ukraine fight the aggressor, at his own discretion. There are no reports.
+The program is free. The author spends tips on [Buy Me a Coffee](https://buymeacoffee.com/odmenrustb) helping Ukraine fight the aggressor, at his own discretion.
 
 ### What is here now
 
