@@ -1,12 +1,12 @@
-![SMT UA, українська версія](smt-banner.jpg)
+![SMT UA](smt-banner.jpg)
 
 # SMT UA
 
-SMT UA це збірка карти [SMT](https://github.com/Slazanger/SMT) автора Slazanger з переробленим інтерфейсом і своїми інструментами для полювання й безпеки. Карта, Intel і оверлей лишились основою. Зверху додано те, чого в оригіналі немає: кнопка D-Scan відправляє спрямований скан на dscan.info з системи, де стоїть пілот, а кнопка Local бере список людей у локалі і дає посилання на звіт localthreat. Ліцензія MIT. Copyright (c) 2023 Slazanger.
+SMT UA це наша карта для EVE Online. Від [SMT](https://github.com/Slazanger/SMT) автора Slazanger лишився каркас. Інтерфейс, оверлей, Intel, помічник зору, D-Scan і Local зібрані заново під бій. Мов 43, перший запуск англійською. Ліцензія MIT. Copyright (c) 2023 Slazanger.
 
 Що змінилось у кожній версії, написано на сторінці [релізів](https://github.com/FuryRoad-Odmen/smt-ua/releases).
 
-Це вже зроблена робота, і її є куди продовжувати. Якщо збірка корисна, чайові в [банці Монобанку](https://send.monobank.ua/jar/2otjtBDKqm) допомагають її покращувати. Грати можна без них. Гроші йдуть автору цієї збірки, не автору оригінального SMT.
+Програма безкоштовна. Чайові на [Buy Me a Coffee](https://buymeacoffee.com/odmenrustb) автор витрачає на допомогу Україні в боротьбі проти агресора на свій розсуд. Звітів немає.
 
 ## Що є зараз
 
@@ -24,7 +24,7 @@ SMT UA це збірка карти [SMT](https://github.com/Slazanger/SMT) ав
 
 **Помічник зору.** Вимкнений, поки його не увімкнути. Прозоре поле ставлять на дрібні кольорові значки в клієнті. Кольори задаються списком. Поки колір у полі, грає звук, а на поточній системі на карті й оверлеї світиться кружок. Розмір кружка від 10% до 100% диска оповіщення. Повзунок видимості гасить тільки рамку, саме поле лишається прозорим. Справа кнопки D, L і M. M глушить звук, поки колір не зникне. Якщо значок моргає, сигнал не скидається на темному кадрі. Налаштування на окремій вкладці після «Оверлей». Кнопка «Гаразд» записує налаштування одразу.
 
-**Мова.** Перший запуск англійською. Мову обирають у Файл, Налаштування. Є українська, англійська і ще кілька десятків мов.
+**Мова.** Мов 43. Перший запуск англійською. Мову обирають у Файл, Налаштування.
 
 ## Як почати
 
@@ -42,11 +42,11 @@ Intel: Файл, Налаштування, Інтел. Назви каналів
 
 ## English
 
-SMT UA is a build of the [SMT](https://github.com/Slazanger/SMT) map by Slazanger, with a reworked interface and its own tools for the hunt and for staying safe. The map, Intel, and the overlay are still the base. On top of that are things the original does not have: the D-Scan button sends a directional scan to dscan.info from the system the pilot is in, and the Local button takes the local list and makes a localthreat report link. MIT license. Copyright (c) 2023 Slazanger.
+SMT UA is our map for EVE Online. [SMT](https://github.com/Slazanger/SMT) by Slazanger is the frame. The interface, overlay, intel, vision aid, D-Scan and Local are built again for a fight. 43 languages, first launch in English. MIT license. Copyright (c) 2023 Slazanger.
 
 What changed in each version is on the [releases](https://github.com/FuryRoad-Odmen/smt-ua/releases) page.
 
-That work is already in the program, and there is more to do. If the build is useful, a tip in the [Monobank jar](https://send.monobank.ua/jar/2otjtBDKqm) helps keep improving it. The program stays free without one. The money goes to the author of this build, not to the author of the original SMT.
+The program is free. The author spends tips on [Buy Me a Coffee](https://buymeacoffee.com/odmenrustb) helping Ukraine fight the aggressor, at his own discretion. There are no reports.
 
 ### What is here now
 
@@ -64,7 +64,7 @@ That work is already in the program, and there is more to do. If the build is us
 
 **Vision aid.** Off until you turn it on. A transparent field sits on small colored marks in the client. You set the colors in a list. While a listed color is in the field, a sound plays and a circle lights on your current system on the map and on the overlay. The circle runs from 10% to 100% of an intel alert. The visibility slider fades only the frame, and the field stays clear. On the right are D, L, and M. M mutes the sound until the color leaves. A blinking mark does not drop the signal on a dark frame. The settings are on their own tab, right after Overlay. OK writes the settings immediately.
 
-**Language.** The first launch is English. Choose the language in File, Settings. Ukrainian, English, and several dozen other languages are included.
+**Language.** 43 languages. The first launch is English. Choose the language in File, Settings.
 
 ### Getting started
 
