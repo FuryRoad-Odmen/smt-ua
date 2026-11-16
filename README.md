@@ -22,7 +22,7 @@ SMT UA це збірка карти [SMT](https://github.com/Slazanger/SMT) ав
 
 **zKill.** Свіжий кіл це темно-червоний диск на системі. Він тане, поки кіл є на дошці. Коло вбивств пілотів за годину фіолетове.
 
-**Помічник зору.** Вимкнений, поки його не увімкнути. Прозоре поле ставлять на дрібні кольорові значки в клієнті. Кольори задаються списком. Поки колір у полі, грає звук і ліворуч світиться кружок. Поле має лишатися майже прозорим. Справа кнопки D, L і M. M глушить звук, поки колір не зникне. Якщо значок моргає, сигнал не скидається на темному кадрі. Налаштування на окремій вкладці після «Оверлей».
+**Помічник зору.** Вимкнений, поки його не увімкнути. Прозоре поле ставлять на дрібні кольорові значки в клієнті. Кольори задаються списком. Поки колір у полі, грає звук, а на поточній системі на карті й оверлеї світиться кружок. Розмір кружка від 10% до 100% диска оповіщення. Повзунок видимості гасить тільки рамку, саме поле лишається прозорим. Справа кнопки D, L і M. M глушить звук, поки колір не зникне. Якщо значок моргає, сигнал не скидається на темному кадрі. Налаштування на окремій вкладці після «Оверлей». Кнопка «Гаразд» записує налаштування одразу.
 
 **Мова.** Перший запуск англійською. Мову обирають у Файл, Налаштування. Є українська, англійська і ще кілька десятків мов.
 
@@ -62,7 +62,7 @@ That work is already in the program, and there is more to do. If the build is us
 
 **zKill.** A fresh kill is a dark red disk on the system. It fades while the kill is still on the board. Pilot kills for the hour are a purple ring.
 
-**Vision aid.** Off until you turn it on. A transparent field sits on small colored marks in the client. You set the colors in a list. While a listed color is in the field, a sound plays and a circle lights on the left. Keep the field almost transparent. On the right are D, L, and M. M mutes the sound until the color leaves. A blinking mark does not drop the signal on a dark frame. The settings are on their own tab, right after Overlay.
+**Vision aid.** Off until you turn it on. A transparent field sits on small colored marks in the client. You set the colors in a list. While a listed color is in the field, a sound plays and a circle lights on your current system on the map and on the overlay. The circle runs from 10% to 100% of an intel alert. The visibility slider fades only the frame, and the field stays clear. On the right are D, L, and M. M mutes the sound until the color leaves. A blinking mark does not drop the signal on a dark frame. The settings are on their own tab, right after Overlay. OK writes the settings immediately.
 
 **Language.** The first launch is English. Choose the language in File, Settings. Ukrainian, English, and several dozen other languages are included.
 
