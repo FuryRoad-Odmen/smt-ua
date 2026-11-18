@@ -24,7 +24,7 @@ The program is free. The author spends tips on [Buy Me a Coffee](https://buymeac
 
 **zKill.** A fresh kill is a dark red disk on that system. It fades while the kill is still on the board. Pilot kills for the hour are a purple ring.
 
-**Vision aid.** Off until you turn it on. Put a clear field over the small colored marks in the client. While a listed color is in the field, a sound plays and a circle lights on your current system, on the map and on the overlay. The circle is 10% to 100% of an intel alert. The visibility slider fades only the frame. The field stays clear, so the mark is still read. D, L, and M sit to the side. M mutes the sound until the color leaves. A blink does not drop the alarm on a dark frame. Settings are on their own tab, after Overlay. OK writes them immediately. Under the color list, Reset object sizes and colors puts back the built-in sizes and colors and leaves the rest of your settings.
+**Vision aid.** Off until you turn it on. Put a clear field over the small colored marks in the client. While a listed color is in the field, a sound plays and a circle lights on your current system, on the map and on the overlay. The circle is 10% to 100% of an intel alert. The visibility slider fades only the frame. The field stays clear, so the mark is still read. D, L, and M sit to the side. M mutes the sound until the color leaves. A blink does not drop the alarm on a dark frame. Settings are on their own tab, after Overlay. OK writes them immediately. Under the second object, Reset object sizes and colors puts back the built-in sizes and colors and leaves the rest of your settings.
 
 **Updates.** When a newer version has already downloaded, a question stays open until you choose. Restart installs it and starts SMT again. Later opens the map.
 
@@ -62,7 +62,7 @@ SMT UA це карта регіону для EVE Online. На ній видно,
 
 **zKill.** Свіжий кіл це темно-червоний диск на системі. Він тане, поки кіл є на дошці. Коло вбивств пілотів за годину фіолетове.
 
-**Помічник зору.** Вимкнений, поки його не увімкнути. Прозоре поле ставлять на дрібні кольорові значки в клієнті. Поки колір зі списку в полі, грає звук, а на поточній системі на карті й на оверлеї світиться кружок. Розмір кружка від 10% до 100% диска оповіщення. Повзунок видимості гасить тільки рамку, саме поле лишається прозорим. Кнопки D, L і M стоять збоку. M глушить звук, поки колір не зникне. Якщо значок моргає, сигнал не скидається на темному кадрі. Налаштування на окремій вкладці після «Оверлей». Кнопка «Гаразд» записує їх одразу. Під списком кольорів «Скинути розміри і кольори об'єктів» повертає вбудовані розміри й кольори і не чіпає решту налаштувань.
+**Помічник зору.** Вимкнений, поки його не увімкнути. Прозоре поле ставлять на дрібні кольорові значки в клієнті. Поки колір зі списку в полі, грає звук, а на поточній системі на карті й на оверлеї світиться кружок. Розмір кружка від 10% до 100% диска оповіщення. Повзунок видимості гасить тільки рамку, саме поле лишається прозорим. Кнопки D, L і M стоять збоку. M глушить звук, поки колір не зникне. Якщо значок моргає, сигнал не скидається на темному кадрі. Налаштування на окремій вкладці після «Оверлей». Кнопка «Гаразд» записує їх одразу. Під другим об'єктом «Скинути розміри і кольори об'єктів» повертає вбудовані розміри й кольори і не чіпає решту налаштувань.
 
 **Оновлення.** Коли новіша версія вже скачана, питання стоїть, поки не буде вибору. Перезапуск ставить її і запускає SMT знову. «Пізніше» відкриває карту.
 
