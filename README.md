@@ -18,13 +18,13 @@ The program is free. The author spends tips on [Buy Me a Coffee](https://buymeac
 
 **Intel.** SMT reads the channel log from `Documents\EVE\logs`. A line that names a system draws an orange disk on the map and on the overlay. A follow-up from the same writer does not add a second disk or play the sound again. Three sounds by distance: close, farther, and local. Your own D-Scan can stay silent. Other scans still sound. Channel names and clear words such as `clr` are in File, Settings, Intel.
 
-**D-Scan.** The D button by your character takes a copied directional scan and the system you are in. Ships go to dscan.info. The clipboard gets a line with the system and a link. Paste that line into Intel. The map shows a disk, the feed shows the ship count.
+**D-Scan.** DS by your character, or DS on the button row, takes a copied directional scan and the system you are in. Ships go to dscan.info. The clipboard gets a line with the system and a link. Paste that line into Intel. The map shows a disk, the feed shows the ship count. A short notice says the link is ready.
 
-**Local.** The L button takes a copied local list and puts a line with the system and a report link on the clipboard.
+**Local.** LT takes a copied local list and puts a line with the system and a report link on the clipboard. DL on the same row sends those names to D-Scan.
 
 **zKill.** A fresh kill is a dark red disk on that system. It fades while the kill is still on the board. Pilot kills for the hour are a purple ring.
 
-**Vision aid.** Off until you turn it on. Put a clear field over the small colored marks in the client. While a listed color is in the field, a sound plays and a circle lights on your current system, on the map and on the overlay. The circle is 10% to 100% of an intel alert. The visibility slider fades only the frame. The field stays clear, so the mark is still read. D, L, and M sit to the side. M mutes the sound until the color leaves. A blink does not drop the alarm on a dark frame. Settings are on their own tab, after Overlay. OK writes them immediately. Under the second object, Reset object sizes and colors puts back the built-in sizes and colors and leaves the rest of your settings.
+**Vision aid.** Off until you turn it on. Put a clear field over the small colored marks in the client. While a listed color is in the field, a sound plays and a circle lights on your current system, on the map and on the overlay. The circle is 10% to 100% of an intel alert. The visibility slider fades only the frame. The field stays clear, so the mark is still read. M on the button row mutes the sound until the color leaves, and only while this aid is on. A blink does not drop the alarm on a dark frame. Settings are on their own tab, after Overlay. OK writes them immediately. Under the second object, Reset object sizes and colors puts back the built-in sizes and colors and leaves the rest of your settings.
 
 **Updates.** When a newer version has already downloaded, a question stays open until you choose. Restart installs it and starts SMT again. Later opens the map.
 
@@ -56,13 +56,13 @@ SMT UA це карта регіону для EVE Online. На ній видно,
 
 **Intel.** SMT читає журнал каналу з `Документи\EVE\logs`. Рядок із системою малює помаранчевий диск на карті й на оверлеї. Продовження того самого автора не ставить другий диск і не грає звук знову. Три звуки за відстанню: близько, далі і локал. Свій D-Scan можна лишити без звуку, чужі звучать. Назви каналів і слова очищення на кшталт `clr` задають у Файл, Налаштування, Інтел.
 
-**D-Scan.** Кнопка D біля персонажа бере скопійований спрямований скан і систему, де стоїш. Кораблі йдуть на dscan.info. У буфері лишається рядок із системою і посиланням, його вставляють в Intel. На карті диск, у стрічці число кораблів.
+**D-Scan.** DS біля персонажа або DS на рядку кнопок бере скопійований спрямований скан і систему, де стоїш. Кораблі йдуть на dscan.info. У буфері лишається рядок із системою і посиланням, його вставляють в Intel. На карті диск, у стрічці число кораблів. Коротке сповіщення каже, що посилання готове.
 
-**Local.** Кнопка L бере скопійований список локала і кладе в буфер рядок із системою і посиланням на звіт.
+**Local.** LT бере скопійований список локала і кладе в буфер рядок із системою і посиланням на звіт. DL на тому ж рядку надсилає ті самі імена на D-Scan.
 
 **zKill.** Свіжий кіл це темно-червоний диск на системі. Він тане, поки кіл є на дошці. Коло вбивств пілотів за годину фіолетове.
 
-**Помічник зору.** Вимкнений, поки його не увімкнути. Прозоре поле ставлять на дрібні кольорові значки в клієнті. Поки колір зі списку в полі, грає звук, а на поточній системі на карті й на оверлеї світиться кружок. Розмір кружка від 10% до 100% диска оповіщення. Повзунок видимості гасить тільки рамку, саме поле лишається прозорим. Кнопки D, L і M стоять збоку. M глушить звук, поки колір не зникне. Якщо значок моргає, сигнал не скидається на темному кадрі. Налаштування на окремій вкладці після «Оверлей». Кнопка «Гаразд» записує їх одразу. Під другим об'єктом «Скинути розміри і кольори об'єктів» повертає вбудовані розміри й кольори і не чіпає решту налаштувань.
+**Помічник зору.** Вимкнений, поки його не увімкнути. Прозоре поле ставлять на дрібні кольорові значки в клієнті. Поки колір зі списку в полі, грає звук, а на поточній системі на карті й на оверлеї світиться кружок. Розмір кружка від 10% до 100% диска оповіщення. Повзунок видимості гасить тільки рамку, саме поле лишається прозорим. M на рядку кнопок глушить звук, поки колір не зникне, і лише поки помічник зору увімкнений. Якщо значок моргає, сигнал не скидається на темному кадрі. Налаштування на окремій вкладці після «Оверлей». Кнопка «Гаразд» записує їх одразу. Під другим об'єктом «Скинути розміри і кольори об'єктів» повертає вбудовані розміри й кольори і не чіпає решту налаштувань.
 
 **Оновлення.** Коли новіша версія вже скачана, питання стоїть, поки не буде вибору. Перезапуск ставить її і запускає SMT знову. «Пізніше» відкриває карту.
 
